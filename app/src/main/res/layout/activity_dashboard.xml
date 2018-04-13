@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#eae8e8"
+    >
+
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        style="@style/header_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_centerInParent="true"
+            android:text="@string/app_name"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_below="@+id/relativeLayout1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/layout"
+        android:gravity="center"
+       >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="SYMPTOMS"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/buttonbgcolor"/>
+    </LinearLayout>
+
+
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:padding="2dp"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/layout"
+        android:layout_above="@+id/button"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:layout_alignParentBottom="true"
+        android:background="@color/pn_blue_dark"/>
+    </RelativeLayout>
+
+</RelativeLayout>

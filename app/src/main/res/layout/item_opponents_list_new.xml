@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#fffdfd">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="3dp"
+        app:cardElevation="3dp"
+        app:cardBackgroundColor="#f7f7f7"
+        android:layout_margin="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:weightSum="10">
+
+            <ImageView
+                android:id="@+id/image_opponent_icon"
+                style="@style/ListItemIconStyle"
+                android:src="@drawable/ic_person"
+                android:layout_weight="1.5"
+                />
+
+            <TextView
+                android:id="@+id/opponentsName"
+                style="@style/MatchWidthnew"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                tools:text="User Name"
+                android:layout_weight="6"
+                />
+            <ImageView
+                android:id="@+id/image_video_call"
+                style="@style/ListItem_Video_Audio_IconStyle"
+               android:src="@drawable/vcalla"
+                android:layout_weight="1.25"
+              />
+            <ImageView
+                android:id="@+id/image_audio_call"
+                style="@style/ListItem_Video_Audio_IconStyle"
+                android:src="@drawable/acall"
+                android:layout_weight="1.25"
+                 />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

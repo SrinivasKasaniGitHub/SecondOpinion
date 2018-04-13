@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_notification.png",
+        "source": "E:\\IQApps\\QuickBoxDemo\\sample-core\\src\\main\\res\\mipmap-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\IQApps\\QuickBoxDemo\\sample-core\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
