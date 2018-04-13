@@ -1,7 +1,7 @@
 [
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
@@ -14,186 +14,6 @@
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\tooltip.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\tooltip.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
@@ -212,44 +32,40 @@
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -264,64 +80,36 @@
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_splash.xml",
-        "source": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
@@ -336,16 +124,36 @@
         "source": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
@@ -360,18 +168,6 @@
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
@@ -384,68 +180,48 @@
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\7ec1040ff6a5266c7037917c2da3cbc5207de679\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
@@ -458,6 +234,10 @@
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\d51c52b45832ca10833a6ce5616312deb8550ee2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\350801a4907898b874c735978faef689f0d89f61\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",

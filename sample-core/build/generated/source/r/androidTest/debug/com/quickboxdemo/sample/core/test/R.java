@@ -3175,7 +3175,7 @@ containing a value of this type.
         public static final int action_mode_bar_stub=0x7f0f00a6;
         public static final int action_mode_close_button=0x7f0f008a;
         public static final int action_text=0x7f0f00cc;
-        public static final int actions=0x7f0f00d9;
+        public static final int actions=0x7f0f00da;
         public static final int activity_chooser_view_content=0x7f0f008b;
         public static final int add=0x7f0f005a;
         public static final int adjust_height=0x7f0f0075;
@@ -3230,7 +3230,7 @@ containing a value of this type.
         public static final int home=0x7f0f0005;
         public static final int homeAsUp=0x7f0f004a;
         public static final int icon=0x7f0f0090;
-        public static final int icon_group=0x7f0f00da;
+        public static final int icon_group=0x7f0f00db;
         public static final int icon_only=0x7f0f0082;
         public static final int ifRoom=0x7f0f007f;
         public static final int image=0x7f0f008d;
@@ -3267,7 +3267,7 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f0f000b;
         public static final int radio=0x7f0f00a3;
         public static final int right=0x7f0f0065;
-        public static final int right_icon=0x7f0f00db;
+        public static final int right_icon=0x7f0f00d9;
         public static final int right_side=0x7f0f00d4;
         public static final int roboto=0x7f0f001c;
         public static final int roboto_black=0x7f0f0027;

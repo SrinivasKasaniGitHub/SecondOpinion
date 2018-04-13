@@ -87,7 +87,7 @@ public class OpponentsActivity extends BaseActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_opponents);
-        pd=new ProgressDialog(this);
+        pd = new ProgressDialog(this);
 
         initFields();
 
@@ -207,16 +207,16 @@ public class OpponentsActivity extends BaseActivity {
                 pd.dismiss();
                 Log.d("responce", "" + responce);
                 if (null != responce) {
-                    currentUser=new QBUser();
+                    currentUser = new QBUser();
                     try {
                         JSONArray jsonArray = new JSONArray(responce);
                         if (jsonArray.length() > 0) {
-                            currentOpponentsList=new ArrayList<>(jsonArray.length());
-                            for (int i=0;i<jsonArray.length();i++){
+                            currentOpponentsList = new ArrayList<>(jsonArray.length());
+                            for (int i = 0; i < jsonArray.length(); i++) {
                                 StringifyArrayList<String> userTags = new StringifyArrayList<>();
                                 userTags.add("mhjuiklope");
                                 JSONObject jb = jsonArray.getJSONObject(i);
-                                currentUser=new QBUser();
+                                currentUser = new QBUser();
                                 currentUser.setId(Integer.valueOf(jb.getString("id")));
                                 currentUser.setFullName(jb.getString("userId"));
                                 currentUser.setEmail(jb.getString("email"));
@@ -268,19 +268,18 @@ public class OpponentsActivity extends BaseActivity {
     }
 
     private void proceedInitUsersList() {
-     /*  // currentOpponentsList = dbManager.getAllUsers();
-        Log.d(TAG, "proceedInitUsersList currentOpponentsList= " + currentOpponentsList);
+        currentOpponentsList = dbManager.getAllUsers();
         currentOpponentsList.remove(sharedPrefsHelper.getQbUser());
         opponentsAdapter = new OpponentsAdapter(this, currentOpponentsList);
-      *//*  opponentsAdapter.setSelectedItemsCountsChangedListener(new OpponentsAdapter.SelectedItemsCountsChangedListener() {
+        opponentsAdapter.setSelectedItemsCountsChangedListener(new OpponentsAdapter.SelectedItemsCountsChangedListener() {
             @Override
             public void onCountSelectedItemsChanged(int count) {
                 updateActionBar(count);
             }
-        });*//*
+        });
 
-        opponentsListView.setAdapter(opponentsAdapter);*/
-        getOnlineDoctorsList();
+        opponentsListView.setAdapter(opponentsAdapter);
+        //getOnlineDoctorsList();
     }
 
     @Override
@@ -304,7 +303,7 @@ public class OpponentsActivity extends BaseActivity {
                 return true;
 
             case R.id.settings:
-               // showSettings();
+                // showSettings();
                 return true;
 
             case R.id.log_out:
@@ -433,7 +432,6 @@ public class OpponentsActivity extends BaseActivity {
         LoginActivity.start(this);
         finish();
     }
-
 
     public void logOutMethod() {
         RequestQueue requestQueue = Volley.newRequestQueue(this);

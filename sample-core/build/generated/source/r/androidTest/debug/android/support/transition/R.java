@@ -72,7 +72,7 @@ public final class R {
         public static final int action_divider = 0x7f0f00d1;
         public static final int action_image = 0x7f0f00cb;
         public static final int action_text = 0x7f0f00cc;
-        public static final int actions = 0x7f0f00d9;
+        public static final int actions = 0x7f0f00da;
         public static final int async = 0x7f0f0070;
         public static final int blocking = 0x7f0f0071;
         public static final int cancel_action = 0x7f0f00ce;
@@ -81,7 +81,7 @@ public final class R {
         public static final int forever = 0x7f0f0072;
         public static final int ghost_view = 0x7f0f0004;
         public static final int icon = 0x7f0f0090;
-        public static final int icon_group = 0x7f0f00da;
+        public static final int icon_group = 0x7f0f00db;
         public static final int info = 0x7f0f00d7;
         public static final int italic = 0x7f0f0020;
         public static final int line1 = 0x7f0f0007;
@@ -92,7 +92,7 @@ public final class R {
         public static final int notification_main_column = 0x7f0f00d3;
         public static final int notification_main_column_container = 0x7f0f00d2;
         public static final int parent_matrix = 0x7f0f0009;
-        public static final int right_icon = 0x7f0f00db;
+        public static final int right_icon = 0x7f0f00d9;
         public static final int right_side = 0x7f0f00d4;
         public static final int save_image_matrix = 0x7f0f000c;
         public static final int save_non_transition_alpha = 0x7f0f000d;

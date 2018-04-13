@@ -157,7 +157,6 @@ public class LoginActivity extends BaseActivity {
 
                 try {
                     if (null!=response.toString()){
-                        Log.d("regresponce",""+response.toString());
                         String reg_Responce_Code=response.getString("responseCode");
                         String reg_responce=response.getString("response");
                         if (reg_Responce_Code.equals("A100")){
@@ -209,7 +208,7 @@ public class LoginActivity extends BaseActivity {
         edt_login_pwd=(EditText)findViewById(R.id.login_pwd);
 
         chatRoomNameEditText = (EditText) findViewById(R.id.chat_room_name);
-        chatRoomNameEditText.setText("mhjuiklope");
+        chatRoomNameEditText.setText("ghyuijkolpr");
         chatRoomNameEditText.addTextChangedListener(new LoginEditTextWatcher(chatRoomNameEditText));
     }
     public void showToast(final String message) {

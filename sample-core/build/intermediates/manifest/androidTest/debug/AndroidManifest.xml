@@ -3,7 +3,7 @@
     package="com.quickboxdemo.sample.core.test" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
     <instrumentation

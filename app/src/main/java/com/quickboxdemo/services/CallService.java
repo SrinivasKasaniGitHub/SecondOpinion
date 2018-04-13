@@ -93,7 +93,6 @@ public class CallService extends Service {
             QBTcpConfigurationBuilder configurationBuilder = new QBTcpConfigurationBuilder();
             configurationBuilder.setSocketTimeout(0);
             QBChatService.setConnectionFabric(new QBTcpChatConnectionFabric(configurationBuilder));
-
             QBChatService.setDebugEnabled(true);
             chatService = QBChatService.getInstance();
         }

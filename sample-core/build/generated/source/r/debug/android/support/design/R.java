@@ -764,7 +764,7 @@ public final class R {
         public static int action_mode_bar_stub = 0x7f0f00a6;
         public static int action_mode_close_button = 0x7f0f008a;
         public static int action_text = 0x7f0f00cc;
-        public static int actions = 0x7f0f00d9;
+        public static int actions = 0x7f0f00da;
         public static int activity_chooser_view_content = 0x7f0f008b;
         public static int add = 0x7f0f005a;
         public static int alertTitle = 0x7f0f009e;
@@ -800,7 +800,7 @@ public final class R {
         public static int ghost_view = 0x7f0f0004;
         public static int home = 0x7f0f0005;
         public static int icon = 0x7f0f0090;
-        public static int icon_group = 0x7f0f00da;
+        public static int icon_group = 0x7f0f00db;
         public static int image = 0x7f0f008d;
         public static int info = 0x7f0f00d7;
         public static int italic = 0x7f0f0020;
@@ -830,7 +830,7 @@ public final class R {
         public static int progress_horizontal = 0x7f0f000b;
         public static int radio = 0x7f0f00a3;
         public static int right = 0x7f0f0065;
-        public static int right_icon = 0x7f0f00db;
+        public static int right_icon = 0x7f0f00d9;
         public static int right_side = 0x7f0f00d4;
         public static int save_image_matrix = 0x7f0f000c;
         public static int save_non_transition_alpha = 0x7f0f000d;

@@ -17,8 +17,8 @@
         android:paddingRight="@dimen/padding_outgoing_screen"
         android:textSize="@dimen/text_size_call"
         android:textStyle="normal"
-        tools:text="John, Bob, Merlin"
-        android:visibility="gone"/>
+        android:visibility="visible"
+        tools:text="John, Bob, Merlin" />
 
     <TextView
         android:id="@+id/text_ringing"

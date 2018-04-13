@@ -6,13 +6,5 @@
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_notification.png",
         "source": "E:\\IQApps\\SecondOpinion\\sample-core\\src\\main\\res\\mipmap-hdpi\\ic_notification.png"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\IQApps\\QuickBoxDemo\\sample-core\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_notification.png",
-        "source": "E:\\IQApps\\QuickBoxDemo\\sample-core\\src\\main\\res\\mipmap-hdpi\\ic_notification.png"
     }
 ]

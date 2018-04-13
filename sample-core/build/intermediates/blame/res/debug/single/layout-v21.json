@@ -1,23 +1,11 @@
 [
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
@@ -26,9 +14,5 @@
     {
         "merged": "E:\\IQApps\\SecondOpinion\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "E:\\IQApps\\QuickBoxDemo\\sample-core\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\ff8d3dd5bae80b3f88ce81bb7285bc50425d4489\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]
